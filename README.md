@@ -6,12 +6,12 @@ ok i want to tell you this code is 99 percent is ai generated code . Its just a 
 do it in locally . For this program to work you need two things one is Lm studio and other one is fooocus api . both i will tell you how to install . i will provide link and everything how i did it . This is a basic gui app .
 To run this app you need to install fooocus api .
 
-Clone the fooocus-api repo (git clone https://github.com/mrhan1993/Fooocus-API.git)
-inside the cloned folder create a new virtual environment and activate it
-For virtual environment run this : (python -m venv .venv;)
-to activate the environment run this : (.venv\Scripts\activate)
-install the requirements.txt (pip install -r requirements.txt)
-if you already have Fooocus installed on your machine, go to the Fooocus folder and look for the config.txt file. Copy this file and paste it into the root folder of Fooocus-API
+1.Clone the fooocus-api repo (git clone https://github.com/mrhan1993/Fooocus-API.git)
+2.inside the cloned folder create a new virtual environment and activate it
+3.For virtual environment run this : (python -m venv .venv;)
+4.to activate the environment run this : (.venv\Scripts\activate)
+5.install the requirements.txt (pip install -r requirements.txt)
+
 run Fooocus-API (inside the Fooocus-API root folder run python main.py)
 go to http://localhost:8888/docs to see the swagger specification of the API
 

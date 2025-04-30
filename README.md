@@ -19,12 +19,14 @@ go to http://localhost:8888/docs to see the swagger specification of the API
 ok this is for image generation it will directly load into your vram . I have faced many problem for memory management i didnt find a decent solution for it so i did the next best thing . i have 32 gb ram and 8gb nvidia 
 4060 . So spcifically run lm studion and go to their api section and set the model manually load into ram not vram . Vram ofloading i set to zero so for that whenever my program call llm to write the script it will automatically load into ram and whwenever it calls fooocus api it run on vram . Hence no memory problem . 
 
-![Screenshot_127](https://github.com/user-attachments/assets/7c5962af-3f0b-4046-9f46-e6fa4fc06786)
+![Screenshot_127](https://github.com/user-attachments/assets/0f62cb4f-628f-4e2c-a9e0-59ffd30dbdcf)
+
 
 
 And a successful api connenction to the fooocus will look like the screenshot . 
 
-![Screenshot_128](https://github.com/user-attachments/assets/9ac8e2c2-bc4e-44c4-bd9e-f713ffe62bda)
+
+![Screenshot_128](https://github.com/user-attachments/assets/737af0dc-73b5-4913-8a89-ddd1022839a4)
 
 
 
@@ -38,10 +40,13 @@ I know its a very minor steps to go . But trust me its a good way to forward . p
 
 Here are some screenshot in action and its potential 
 
-![Screenshot_123](https://github.com/user-attachments/assets/3b6f3095-c9e3-4040-80b5-b9b750c2649a)
-![Screenshot_124](https://github.com/user-attachments/assets/73f2afc5-e063-47a8-bf2e-316a6b6a60d6)
-![Screenshot_125](https://github.com/user-attachments/assets/d0018ead-5232-4466-836e-52031974f29d)
-![Screenshot_126](https://github.com/user-attachments/assets/2a536bcf-f7c9-4650-b8bf-c80e80b15bc0)
+![Screenshot_123](https://github.com/user-attachments/assets/cbafe9c3-d881-46dc-9dd6-5292bc6363fc)
+
+![Screenshot_124](https://github.com/user-attachments/assets/6390348d-f283-43ec-8165-f4552d399998)
+
+![Screenshot_125](https://github.com/user-attachments/assets/423e100c-0278-41d5-bff7-2a6289f64681)
+
+![Screenshot_126](https://github.com/user-attachments/assets/500faa8d-221d-4ca3-be6e-7cce8826b977)
 
 
 

@@ -46,7 +46,7 @@ Here are some screenshot in action and its potential
 
 ![Screenshot_125](https://github.com/user-attachments/assets/423e100c-0278-41d5-bff7-2a6289f64681)
 
-![Screenshot_126](https://github.com/user-attachments/assets/500faa8d-221d-4ca3-be6e-7cce8826b977)
+
 
 
 
